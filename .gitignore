@@ -1,0 +1,19 @@
+# PDFs de calendarios originales (uso interno, ~13 MB)
+# Las imágenes que usa el sitio ya están en recursos/calendario/
+calendario/
+
+# Carpeta generada por preparar-publicacion.ps1 (se puede volver a crear)
+publicar/
+
+# Notas internas del proyecto
+Brief.md
+CV.md
+DESPLIEGUE.md
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
